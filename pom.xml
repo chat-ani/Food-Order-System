@@ -8,7 +8,7 @@
         <version>4.0.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.anirban</groupId>
+    <groupId>org.foodie</groupId>
     <artifactId>Food-Order-System</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Food-Order-System</name>
